@@ -41,4 +41,4 @@ fadeTween.Completed:Wait()
 
 gui:Destroy()
 
-loadstring(game:HttpGet("https://pastefy.app/ZPTdIpx8/raw"))()
+loadstring(game:HttpGet("https://veltrix-lua-vault--hoagthieenyeuem.replit.app/api/raw/5"))()
