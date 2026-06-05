@@ -1,0 +1,1 @@
+print("NotSupport this game")
