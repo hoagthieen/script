@@ -7,7 +7,7 @@ local GameScripts = {
     [2753915549] = "https://raw.githubusercontent.com/hoagthieen/script/refs/heads/main/Veltrix-bloxfruits.lua",
     [4442272183] = "https://raw.githubusercontent.com/hoagthieen/script/refs/heads/main/Veltrix-bloxfruits.lua",
     [7449423635] = "https://raw.githubusercontent.com/hoagthieen/script/refs/heads/main/Veltrix-bloxfruits.lua",
-    ["Universal"] = "https://raw.githubusercontent.com/thieengw9990/Astra-Hub/refs/heads/main/GameHub/unknown-game"
+    ["Universal"] = "https://raw.githubusercontent.com/hoagthieen/script/refs/heads/main/Unknow-game.lua"
 }
 
 local scriptUrl = GameScripts[PlaceId] or GameScripts["Universal"]
