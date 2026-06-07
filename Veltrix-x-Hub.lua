@@ -12,8 +12,8 @@ local GameScripts = {
 
 local scriptUrl = GameScripts[PlaceId] or GameScripts["Universal"]
 
-print("[ASTRA X HUB] Router active. Detected PlaceId: " .. tostring(PlaceId))
-print("[ASTRA X HUB] Routing to branch...")
+print("[Veltrix X HUB] Router active. Detected PlaceId: " .. tostring(PlaceId))
+print("[Veltrix X HUB] Routing to branch...")
 
 local success, err = pcall(function()
     loadstring(game:HttpGet(scriptUrl))()
