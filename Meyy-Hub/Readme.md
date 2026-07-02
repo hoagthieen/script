@@ -1,1 +1,3 @@
-# Status : Online
+# Status script : [🟢]
+## Key : [🔴]
+### Verson : 2
