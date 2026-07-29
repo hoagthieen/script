@@ -1,5 +1,4 @@
 {
-    "users": [
-        "Anplay666"
-    ]
+    "123456789": "Selling scripts",
+    "987654321": "Leaking"
 }
